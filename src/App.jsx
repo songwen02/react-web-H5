@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import routes from '@/router/index';
 import { useLocation } from 'react-router-dom';
-/* 全局引入zarm UI */
+/* 全局引入zarm UI 1*/
 import { ConfigProvider } from 'zarm';
 import 'zarm/dist/zarm.css';
 /* 底部按钮 */
